@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">I'm KKS_06</h1>
+<h3 align="center">A Full-Stack developer from Mexico</h3>
 
-<!--
-**xKSTDx/xKSTDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Working on **Something...**
 
-Here are some ideas to get you started:
+- Learning **Nothing...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I need help with **Everything...**
+
+<h1 align="center"> Stats </h2>
+<p align="center"	>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xKSTDx&show_icons=true&locale=en&theme=holi" alt="xKSTDx" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xKSTDx&show_icons=true&locale=en&theme=holi" alt="xKSTDx" />
+</p>
+
+
+<h1 align="center">Skills</h2>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=javascript,ts,py,rust,c,java,php" />
+</a>
+</p>
