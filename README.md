@@ -1,12 +1,4 @@
 <h1 align="center">I'm KKS_06</h1>
-<h3 align="center">A Full-Stack developer from Mexico</h3>
-
-- Working on **Something...**
-
-- Learning **Nothing...**
-
-- I need help with **Everything...**
-
 <h1 align="center"> Stats </h2>
 <p align="center"	>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xKSTDx&show_icons=true&locale=en&theme=holi" alt="xKSTDx" />
