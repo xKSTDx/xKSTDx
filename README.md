@@ -12,3 +12,5 @@
 <img src="https://skillicons.dev/icons?i=javascript,ts,py,rust,c,java,php" />
 </a>
 </p>
+
+# test from terminal
