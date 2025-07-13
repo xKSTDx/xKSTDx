@@ -11,11 +11,11 @@ Greetings! This is my **About Me**. I'm **xKSTDx**, a programmer who lives betwe
 ---
 
 ## 🧑‍💻 Who am i?
-idk. I'm just a soul in pain forced to write spaghetti in the form of code... if it works, don't touch it. My days consist of writing a line a day, fighting with Git, and pretending I understand Kubernetes.
+idk. I'm just a soul in pain forced to write spaghetti in the form of code... if it works, don't touch it. My days consist of writing 1 line a day, fighting with Git, and pretending I understand Kubernetes.
 
 - **Vibe:** Stupid
 - **Superpower:** Using gentoo
-- **Weakness:** Compile 7 hours a day
+- **Weakness:** Compile 8 hours a day
 
 ---
 
@@ -32,7 +32,7 @@ My arsenal to fight the Matrix:
 
 ## 🧠 Key facts
 - **KSTD** : Knowledge Strength Talent Discipline.
-- **Kks** : Shit (plural), it literally means shit in Spanish.
+- **KKS** : caca (plural), it literally means shit in Spanish.
 
 ---
 
