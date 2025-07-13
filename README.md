@@ -1,25 +1,24 @@
-### 😎 About Me:
+# Hello World 👋
 
-*“Code, coffee and chaos.”*
+**Senior Copy-Paste Engineer** | **Junior Problem Creator** | **Dotfiles enjoyer**
 
-Greetings! This is my **About Me**. I'm **xKSTDx**, a programmer who lives between lines of code, bugs and a slight obsession with ***dotfiles*** ✨
+```javascript
+const reality = {
+    name: "xkstdx",
+    job: null,
+    experience: "5 years copying from Stack Overflow",
+    specialty: "creating bugs I don't even understand",
+    debugging_method: "console.log()",
+    imposter_syndrome: 100
+};
+```
 
-
+>
 > “No bugs, just *features* with attitude.”  
 > - Me, probably
+>
 
----
-
-## 🧑‍💻 Who am i?
-idk. I'm just a soul in pain forced to write spaghetti in the form of code... if it works, don't touch it. My days consist of writing 1 line a day, fighting with Git, and pretending I understand Kubernetes.
-
-- **Vibe:** Stupid
-- **Superpower:** Using gentoo
-- **Weakness:** Compile 8 hours a day
-
----
-
-## 💻 Stack
+### 🔧 "Skills"
 My arsenal to fight the Matrix:
 
 - **🟨 JavaScript**: Chaos Is my framework.
@@ -28,11 +27,20 @@ My arsenal to fight the Matrix:
 - **🐳 Docker**: Tear containers.
 - **💾 SQL**: My data, my religion.
 
----
+### 📈 Real stats
+```
+Useful commits: 0
+"Fixed typo" commits: 999+
+Times I broke my linux distro: Can't remember
+Times I blamed the computer: All of them
+Tests written: What's that?
+```
 
-## 🧠 Key facts
-- **KSTD** : Knowledge Strength Talent Discipline.
-- **KKS** : caca (plural), it literally means shit in Spanish.
+### 💡 Lessons learned
+- "Works on my machine" is a religion
+- The best code is the one someone else wrote
+- If there are no console errors, it's fine (lie)
+- Users always find creative ways to break everything
 
 ---
 
@@ -40,8 +48,6 @@ My arsenal to fight the Matrix:
 <p align="center"	>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xKSTDx&show_icons=true&locale=en&theme=holi" alt="xKSTDx" />
 </p>
-
----
 
 ## 🚀 Projects
 - **[none](https://github.com/xkstdx/xkstdx)**
